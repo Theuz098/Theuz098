@@ -1,4 +1,4 @@
-### Oi, eu sou o Matheus 👋
+
 
 Estudante de **Sistemas de Informação** na **ESAMC** e desenvolvedor em Uberlândia, MG.
 Gosto de tirar projetos do papel: sistemas web completos, apps desktop e, ultimamente, ferramentas com agentes de IA.
